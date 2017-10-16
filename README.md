@@ -4,6 +4,7 @@ Found in this repository are any branding images, colors, and guidelines for Sta
 
 ### Projects
 
+- [Chronicler](./chronicler/README.md)
 - [Corona IDE](./corona-ide/README.md)
 - [Dark Matter](./dark-matter/README.md)
 - [Starchart Labs](./starchart-labs/README.md)
