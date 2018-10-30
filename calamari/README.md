@@ -11,5 +11,7 @@
 
 ### Information
 Primary brand color: #9580B2
+
 Secondary brand color: #584D6D
+
 Font: Josefin Slab Regular
