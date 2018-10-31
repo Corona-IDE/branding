@@ -10,3 +10,11 @@
 [Current brandmark (.png)](brandmark.png)
 
 [Current wordmark (.png)](wordmark.png)
+
+### Information
+
+Primary Brand Color: #AD0A3F
+
+Secondary Brand Color: #680C2F
+
+Font: Geosans
