@@ -10,3 +10,10 @@
 [Current brandmark (.png)](brandmark.png)
 
 [Current wordmark (.png)](wordmark.png)
+
+### Information
+Primary Brand Color: #024160
+
+Secondary Brand Color: #04212D
+
+Font: Asap
